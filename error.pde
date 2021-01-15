@@ -1,0 +1,14 @@
+void error() {
+  
+  
+  
+  
+}
+
+
+void errorClicks() {
+  
+  
+  
+  
+}
